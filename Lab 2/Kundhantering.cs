@@ -44,7 +44,7 @@ namespace Lab_2
                         case KundNivå.Silver:
                             kunder.Add(new SilverKund(namn, lösenord));
                             break;
-                        case KundNivå.Bronze:
+                        case KundNivå.Brons:
                             kunder.Add(new BronsKund(namn, lösenord));
                             break;
                     }

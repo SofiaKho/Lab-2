@@ -1,6 +1,7 @@
 ﻿using System;
+using Lab_2;
 
-namespace Sminkbutik_projekt_2
+namespace Lab_2
 {
     class Program
     {

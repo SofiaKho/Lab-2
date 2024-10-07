@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System;
 namespace Lab_2
 {
-    using System;
+   
 
-    namespace SminkButik
+    namespace Lab_2
     {
         public class Meny
         {
