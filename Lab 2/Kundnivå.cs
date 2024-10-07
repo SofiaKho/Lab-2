@@ -10,7 +10,7 @@ namespace Lab_2
     {
         public enum KundNivå
         {
-            Bronse,
+            Brons,
             Silver,
             Guld
         }
